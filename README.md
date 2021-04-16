@@ -2,4 +2,4 @@
 
 Проект: задание с Patreon. Выбор цены подписки.
 
-Ссылка на сатй:
+Ссылка на сайт: https://mariarykova.github.io/task9_trial_period/
