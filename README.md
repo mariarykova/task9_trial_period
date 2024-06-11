@@ -1,5 +1,5 @@
-Выполнила: Рыкова Мария
+Completed by Maria Rykov
 
-Проект: задание с Patreon. Выбор цены подписки.
+Project: task from Patreon. Choose price subscription.
 
 Ссылка на сайт: https://mariarykova.github.io/task9_trial_period/
